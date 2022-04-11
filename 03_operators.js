@@ -30,3 +30,9 @@ console.log(`
  var newResult = listPrice > sellingPrice;
  console.log(typeof result);
  // the output will be : boolean . "typof returns the variable type"
+
+ // Operators follow the 'BODMAS' rule i.e. -- B - (){}[] O - off D -/ M - * A - * S '-'
+ //Braces > Off > Divison > Multiplication > Addition > Substraction
+ //eventually they follow there precedence :)}] XD!
+ // JavaScript operator precedence --
+ //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
